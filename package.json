@@ -54,7 +54,7 @@
     "async": "*",
     "base58-native": "0.1.2",
     "bignum": "*",
-    "bitcore": "git://github.com/viacoin/viacore.git#cacb98beda6460972bca04a27a271a2817cd866c",
+    "bitcore": "git://github.com/viacoin/viacore.git#master",
     "bufferput": "git://github.com/bitpay/node-bufferput.git",
     "buffertools": "*",
     "commander": "*",
