@@ -330,5 +330,13 @@
       "searchStrings":[
          "VuHoMzqxrpR1mEW17DfuSMUaZBun17Qf6w"
       ]
+   },
+   {
+      "poolName":"ipoMiner",
+      "url":"https://www.ipominer.com/",
+      "searchStrings":[
+         "VdjHir4ZECuf9s599P2143Qg59aaZVmgeu"
+      ]
    }
+
 ]
