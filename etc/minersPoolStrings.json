@@ -351,5 +351,12 @@
       "searchStrings":[
          "VdDkd3vJJttjwWrQkKrBJA4LNLaVfFsEGr"
       ]
+   },
+   {
+      "poolName":"Hash-to-coins",
+      "url":"https://hash-to-coins.com/",
+      "searchStrings":[
+         "VdqgeaWwxCcwgdLEzpQtQG7Yqzn59QBe5r"
+      ]
    }
 ]
