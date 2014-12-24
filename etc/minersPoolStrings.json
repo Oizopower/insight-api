@@ -358,5 +358,26 @@
       "searchStrings":[
          "VdqgeaWwxCcwgdLEzpQtQG7Yqzn59QBe5r"
       ]
+   },
+   {
+      "poolName":"Lifeforce",
+      "url":"http://via.lifeforce.info/",
+      "searchStrings":[
+         "VhMb2CiKGYFo2epWr1fFbCLmTrrLi9eRso"
+      ]
+   },
+   {
+      "poolName":"BeMining",
+      "url":"http://bemining.net/",
+      "searchStrings":[
+         "Vc53SSSemoi1Jrg2J4kp11oercBMyhtTt8"
+      ]
+   },
+   {
+      "poolName":"iHash",
+      "url":"http://ihash.co/",
+      "searchStrings":[
+         "VvWuSGUx2oRUcfejAoiGNtZFthXE5h1nBj"
+      ]
    }
 ]
