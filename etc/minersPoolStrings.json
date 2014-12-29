@@ -367,7 +367,7 @@
       ]
    },
    {
-      "poolName":"BeMining",
+      "poolName":"BeMining [t8]",
       "url":"http://bemining.net/",
       "searchStrings":[
          "Vc53SSSemoi1Jrg2J4kp11oercBMyhtTt8"
@@ -378,6 +378,34 @@
       "url":"http://ihash.co/",
       "searchStrings":[
          "VvWuSGUx2oRUcfejAoiGNtZFthXE5h1nBj"
+      ]
+   },
+   {
+      "poolName":"BeMining [er]",
+      "url":"http://bemining.net/",
+      "searchStrings":[
+         "VtPEyctAp4gq6oeqMjrVu8TXkQFRah6her"
+      ]
+   },
+   {
+      "poolName":"BeMining [L6]",
+      "url":"http://bemining.net/",
+      "searchStrings":[
+         "VnWvLqP51MMcivLZtMZCA8ofHNUHhfbKL6"
+      ]
+   },
+   {
+      "poolName":"P2",
+      "url":"#",
+      "searchStrings":[
+         "ViKVaGqnQgJAYQQfG5Hduv14TkMMjCpnqS"
+      ]
+   },
+   {
+      "poolName":"Coinking",
+      "url":"https://coinking.io/",
+      "searchStrings":[
+         "Vj559hasFwHwb9B6YtdfeYupHC2K6s5fWg"
       ]
    }
 ]
